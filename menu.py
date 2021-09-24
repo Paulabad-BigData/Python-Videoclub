@@ -134,6 +134,7 @@ class Menu:
             print("----------------")
             print(" 7 = Salir")
             print("*******************************")
+            print("*****  Made by: Paula Abad ***")
             print("*******************************")
 
             try:
